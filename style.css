@@ -1,0 +1,138 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header section */
+/* nav bar */
+.bg-color-nav{
+    background: #E76F51;
+    color: #FFFFFF;
+
+}
+.bg-color{
+    background-color:#264653;
+}
+
+
+.btn-purchase-color{
+    background-color:#E76F51;
+    color:#FFFFFF;
+    width: 168px;
+    height: 44px;
+}
+
+.header-p{
+    font-style: normal;
+font-weight: 300;
+font-size: 14px;
+color:#FFFFFF;
+
+
+}
+.header-p-2{
+    color: #E0E0E0;
+}
+
+/* main section */
+
+/* Fetured section */
+
+h4{
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+}
+hr{
+    width: 58.5px;
+    border-radius: 1px;
+}
+.img-grayscale{
+    filter:grayscale(1);
+}
+
+/* Fetured section end */
+p{
+    color: #6C6C6C;
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+}
+/* latest News section */
+.letest-h5{
+    font-style: normal;
+font-weight: 600;
+font-size: 28px;
+
+}
+/* latest News */
+
+.letest-img{
+    width: 337px;
+    height: 256px;
+    border-radius: 10px;
+}
+
+/* .card{
+    border: 1px solid rgb(0 0 0 / 0%);
+} */
+
+.btn-color{
+    border: 1px solid #E76F51;
+    background-color: #FFFFFF;
+    color:#E76F51;
+    width: 160px;
+    height: 57px;
+}
+.btn-color:hover{
+    background: #E76F51;
+    color: #FFFFFF;
+}
+/* latest News section end */
+
+/* Happy Clients says */
+span{
+    color:#E76F51;
+}
+.rounded-circle{
+    width: 149px;
+    height: 149px;
+    
+}
+
+/* Happy Clients says end */
+.fa-star{
+    width: 22.01px;
+height: 22.01px;
+}
+.fa-star.filled{
+    color: #E77C40;
+    
+}
+.fa-star.empty{
+    color:#AEAEAE;
+}
+
+h6{
+    font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+}
+
+.miles-color{
+    color: #23A6F0;
+
+}
+
+/* Frequently Asked Questions */
+
+/* Letest Bike Demo Video */
+
+/* THE POWER OF DREAMS */
+
+/* footer */
+footer{
+    background-color:#0B0D17;
+}
+footer a{
+    margin: 0 20px 0 0;
+}
